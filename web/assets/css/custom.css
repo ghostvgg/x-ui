@@ -21,7 +21,9 @@
 .ant-card+.ant-card {
     margin-top: 20px;
 }
-
+.anticon {
+    font-size: 20px!important;
+}
 .drawer-handle {
     position: absolute;
     top: 72px;
